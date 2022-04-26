@@ -4,7 +4,7 @@
   "title": "Young Readers Database of Literature",
   "logo_path": "/assets/images/yrdl_logo.png",
   "title_separator": "-",
-  "name": "Quinn Dombrowski",
+  "name": "YRDL",
   "description": "Digital humanities project on middle-grade and YA books",
   "maxPostsPerPage": 5,
   "search": false,
