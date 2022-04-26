@@ -7,16 +7,16 @@ classes: wide
 ---
 <div clsas="archive">
 <div class="entries-grid">
-{%- for project in collections.projects -%}
+{%- for presentation in collections.presentations | sort: "date" -%}
 
 <div class="grid__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    <img src="{{project.data.header.overlay_image}}" / >
+    <img src="{{presentation.data.header.overlay_image}}" / >
 	<h3 class="archive__item-title no_toc" itemprop="headline">
-      {% if project.data.permalink %}
-        <a href="{{ project.data.permalink }}">{{ project.data.title }}</a> 
+      {% if presentation.data.permalink %}
+        <a href="{{ presentation.data.permalink }}">{{ presentation.data.title }}</a> 
       {% endif %}
-    {% if project.data.blurb %}<p class="archive__item-excerpt" itemprop="description">{{ project.data.blurb | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    {% if presentation.data.date %}<p class="archive__item-excerpt" itemprop="description">{{ presentation.data.blurb | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
 {% endfor %}
