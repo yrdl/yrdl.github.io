@@ -1,0 +1,24 @@
+{
+   "main": [
+    {
+	   "title": "About",
+       "url": "/about/"
+    },
+    {
+       "title": "Projects",
+       "url": "/projects/"
+    },
+    {
+       "title": "Presentations",
+       "url": "/presentations/"
+    },
+    {
+       "title": "Team",
+       "url": "/team/"
+    },
+    {
+       "title": "Blog",
+       "url": "/blog/"
+   }
+   ]
+}
