@@ -13,7 +13,7 @@ The long answer:
 
 #### Why young readers? Why not Children's or YA? 
 
-Deciding to focus on just Children's, Middle-grade, or YA literature from the beginning would have limited the work we wanted to do—including work on identifying the features that distinguish between these categories. Instead, we created a large database with a loose understanding of "fiction for young readers" to cast a wide net [more here] Our database approach requires us to assemble sub-corpora based on explicitly articulated criteria for every research question we ask. This means YRDL is not a representative sample of "YA" or "Children's" or "Middle-grade"—categories that are fuzzy not only in the contemporary moment, but also over time—but it does contain works from all three.
+Deciding to focus on just Children's, Middle-grade, or YA literature from the beginning would have limited the work we wanted to do—including work on identifying the features that distinguish between these categories. Instead, we created a large database with a loose understanding of "fiction for young readers" to cast a wide net. Our database approach requires us to assemble sub-corpora based on explicitly articulated criteria for every research question we ask. This means YRDL is not a representative sample of "YA" or "Children's" or "Middle-grade"—categories that are fuzzy not only in the contemporary moment, but also over time—but it does contain works from all three.
 
 ## Our metadata
 
