@@ -1,12 +1,11 @@
 ---
 permalink: /projects/math/
-title: "Math"
+title: "Math & Math Mindsets"
 date: 2022-04-15
 classes: wide
 show_date: true
 header:
-  overlay_image: /assets/images/header_acndighum.jpg
+  overlay_image: /assets/images/header_math.jpg
   overlay_filter: 0.5
-blurb: "Math in YA"
+blurb: "Depictions of math and math mindsets."
 ---
-
