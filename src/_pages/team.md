@@ -14,6 +14,7 @@ Karen Ge is an undergraduate at Stanford who hopes to improve mathematics educat
 Nichole Nomura is a PhD candidate in the Stanford University Department of English and a graduate of Stanford’s Graduate School of Education (M.A). She studies how science fiction teaches and is taught, using methods from the digital humanities, literary criticism, and education. A member of Stanford's Literary Lab, she specializes in cultural analytics and text-mining, and she teaches courses in literature for young people, pedagogy, and literary criticism. 
 
 ## Alex Sherman
+Alex Sherman is a PhD candidate in the Department of English at Stanford University. He researches literature and science, primarily in the eighteenth century, looking at early scientific writing, maritime literature, and Gothic fiction. He is a member of Stanford’s Literary Lab, where he has contributed to projects on voice, imperial geography, and domestic technology.
 
 ## Jennifer Wolf 
 Jennifer Wolf is a senior lecturer in the Graduate School of Education and the Program in Human Biology. She also serves as Director of UP@GSE, the School’s recent initiative to advise and educate undergraduates. UP@GSE aims to enable undergraduates, through their professional and civic lives, to employ what they learn for a greater educational and public good. She teaches courses in teaching and learning, adolescent literacy and literature, and qualitative research methods. Before teaching and advising at Stanford, she taught high school English in Northern California.
