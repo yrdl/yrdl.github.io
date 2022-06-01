@@ -123,6 +123,8 @@
               <a href="/presentations/">Presentations</a>
             </li><li class="masthead__menu-item">
               <a href="/team/">Team</a>
+            </li><li class="masthead__menu-item">
+              <a href="/blog/">Blog</a>
             </li></ul>
         
         <button class="greedy-nav__toggle hidden" type="button">
@@ -149,7 +151,7 @@
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
     
     
-    <meta itemprop="datePublished" content="Thu Apr 28 2022 16:13:10 GMT+0000 (Coordinated Universal Time)">
+    <meta itemprop="datePublished" content="Wed Jun 01 2022 13:47:51 GMT+0000 (Coordinated Universal Time)">
     
 
     <div class="page__inner-wrap">
@@ -170,18 +172,29 @@
   <subtitle></subtitle>
   <link href="" rel="self"/>
   <link href=""/>
-  <updated>2022-04-28T00:00:00Z</updated>
+  <updated>2022-06-01T00:00:00Z</updated>
   <id>https://www.yrdl.org</id>
   <author>
     <name>YRDL team</name>
   </author>
   
   <entry>
+    <title>#YRDLPride</title>
+    <link href="https://www.yrdl.org/blog/2022/06/01/yrdlpride/"/>
+    <updated>2022-06-01T00:00:00Z</updated>
+    <id>https://www.yrdl.org/blog/2022/06/01/yrdlpride/</id>
+    <content type="html">&lt;p&gt;As we work towards version 0.5 of the Young Readers Database of Literature, including voices from across the LGBTQ+ spectrum -- past and present -- remains a high priority in our collection and digitization work. Acquiring physical copies (some of which can be quite difficult to find!), scanning them, and then converting the scans to text for digital humanities research is quite a bit of work, and much of it happens behind the scenes. To celebrate Pride Month, we&#39;ll be &lt;a href=&quot;https://twitter.com/search?lang=en&amp;amp;q=(%23YRDLPride)%20(from%3Aquinnanya)&amp;amp;src=typed_query&quot;&gt;tweeting a book with an LGBTQ+ protagonist every day&lt;/a&gt; from Christine A. Jenkins and Michael Cart&#39;s &amp;quot;&lt;a href=&quot;https://rowman.com/isbn/9781442278066/representing-the-rainbow-in-young-adult-literature-lgbtq-content-since-1969&quot;&gt;Representing the Rainbow in Young Adult Literature: LGBTQ+ Content since 1969&lt;/a&gt;&amp;quot; along with the book&#39;s cover, synopsis, and a word cloud of the text, giving you a peek at some of the often-invisible work facilitating digital text analysis.&lt;/p&gt;
+&lt;p&gt;Why a word cloud? These quick word-frequency visualizations are anything but trendy in digital humanities circles. But for this celebration of LGBTQ+ YA literature, where there&#39;s no specific research question and we want to show at a glance what&#39;s in a particular book, we think it&#39;s the best tool for the job. For those technically inclined, we&#39;re generating the word clouds using &lt;a href=&quot;https://github.com/voyanttools/VoyantServer&quot;&gt;Voyant Server&lt;/a&gt;, with a &lt;a href=&quot;https://github.com/yrdl/yrdl-snippets/blob/main/YRDLPride-stopwords&quot;&gt;modified English stoplist available on GitHub&lt;/a&gt;. After looking at both possibilities, we decided to keep character names, even though they dominate the word cloud; these books &lt;em&gt;are&lt;/em&gt; about characters.&lt;/p&gt;
+&lt;p&gt;We hope you enjoy this month of queer literature for young readers, and maybe even find a new read in the process!&lt;/p&gt;
+</content>
+  </entry>
+  
+  <entry>
     <title>Launching YRDL</title>
     <link href="https://www.yrdl.org/blog/2022/04/28/launching-yrdl/"/>
     <updated>2022-04-28T00:00:00Z</updated>
     <id>https://www.yrdl.org/blog/2022/04/28/launching-yrdl/</id>
-    <content type="html">&lt;p&gt;Hello world!&lt;/p&gt;
+    <content type="html">&lt;p&gt;Today we formally launch the Young Readers Database of Literature, with a presentation at the &lt;a href=&quot;https://litlab.stanford.edu/&quot;&gt;Stanford Literary Lab&lt;/a&gt;. See our &lt;a href=&quot;https://www.yrdl.org/projects&quot;&gt;Projects page&lt;/a&gt; for more about the angles we&#39;re currently exploring, with more to come!&lt;/p&gt;
 </content>
   </entry>
 </feed>
