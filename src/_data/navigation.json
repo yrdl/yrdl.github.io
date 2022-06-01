@@ -15,6 +15,10 @@
     {
        "title": "Team",
        "url": "/team/"
+    },
+    {
+       "title": "Blog",
+       "url": "/blog/"
     }
    ]
 }
